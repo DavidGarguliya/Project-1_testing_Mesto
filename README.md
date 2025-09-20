@@ -1,10 +1,10 @@
 # 📌 Проект 1: Тестирование сервиса Mesto  
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)  
-![Tests](https://img.shields.io/badge/tests-Regression_&_Retest-blue)  
-![Platform](https://img.shields.io/badge/platform-WebApp-lightgrey)  
-![Bugs](https://img.shields.io/badge/Bugs_Found-8-red)  
-![Blockers](https://img.shields.io/badge/Blockers-1-brightred) 
+![Статус](https://img.shields.io/badge/Статус-Выполнено-brightgreen)  
+![Тесты](https://img.shields.io/badge/Тесты-Регрессия_&_Ретест-blue)  
+![Платформа](https://img.shields.io/badge/Платформа-WebApp-lightgrey)  
+![Баги](https://img.shields.io/badge/Баги_Найдено-7-red)  
+![Блокирующие](https://img.shields.io/badge/Блокирующие-1-brightred)   
 
 ---
 
