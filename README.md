@@ -30,9 +30,9 @@
 
 Примеры обнаруженных багов:  
 
-- ![Ошибка при редактировании профиля](https://via.placeholder.com/400x200?text=Bug+1)  
+- ![Отсутствие кнопки добавления карточки](https://drive.google.com/file/d/1nIb3IP2F-ZLV8mzmNgXfI_N_rOMS8xJL/view?usp=sharing)  
 
-- ![Некорректное отображение карточек](https://via.placeholder.com/400x200?text=Bug+2)  
+- ![Отсутствие иконки корзины для удаления фото](https://drive.google.com/file/d/11kuJFxRvj6jpu8CXLh71q2pqfl56BmxP/view?usp=sharing)  
 
 ---
 
