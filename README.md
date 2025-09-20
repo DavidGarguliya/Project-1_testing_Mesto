@@ -3,8 +3,8 @@
 ![Статус](https://img.shields.io/badge/Статус-Выполнено-brightgreen)  
 ![Тесты](https://img.shields.io/badge/Тесты-Регрессия_&_Ретест-blue)  
 ![Платформа](https://img.shields.io/badge/Платформа-WebApp-lightgrey)  
-![Баги](https://img.shields.io/badge/Баги_Найдено-7-red)  
-![Блокирующие](https://img.shields.io/badge/Блокирующие-1-brightred)   
+![Баги](https://img.shields.io/badge/Найдено_багов-7-red)  
+![Блокеры](https://img.shields.io/badge/Блокирующие-1-brightred)  
 
 ---
 
