@@ -8,7 +8,7 @@
 
 ---
 
-| 📑 [Требования](https://praktikum.notion.site/Mesto-9f2cfaa209734d1f8cfa0c0db3d3049f) | 🖥️ [Тестовый стенд / реализация](https://code.s3.yandex.net/qa/files/mesto/index.html) |
+| 📑 [Требования](https://praktikum.notion.site/Mesto-9f2cfaa209734d1f8cfa0c0db3d3049f) | 🖥️ [Тестовый стенд](https://code.s3.yandex.net/qa/files/mesto/index.html) |
 |---:|:---|
 
 ---
