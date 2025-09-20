@@ -22,7 +22,7 @@
 |--------------------|--------|
 | ✅ Тест-кейсы      | [Google Sheets: Выполненные кейсы](https://docs.google.com/spreadsheets/d/1iLMLPXGppCVs3R0BWKmH3bOKHDOAQjpsbNHY95s5pBo/edit?gid=220888493#gid=220888493) |
 | 🐞 Баг-репорты     | [Google Sheets: Дефекты по проекту Mesto](https://docs.google.com/spreadsheets/d/1D5HoN9YMr3VQ6L9gJBynFNI4StPGRTgOxVVeMad51-s/edit?gid=1186534874#gid=1186534874) |
-| 📄 Итоговый отчёт  | [Younote: Sprint 1](Test report.md) |
+| 📄 Итоговый отчёт  | [Test report: Sprint 1](https://github.com/DavidGarguliya/Project-1_testing_Mesto/blob/c334a50b442cc7399c1171f1bcb714efca8e4138/Test%20report.md) |
 
 ---
 
