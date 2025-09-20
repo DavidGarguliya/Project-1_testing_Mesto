@@ -26,13 +26,13 @@
 
 ---
 
-## 🩻 Скриншоты  
+## 🖼️ Скриншоты  
 
 Примеры обнаруженных багов:  
 
-- ![Отсутствие кнопки добавления карточки](https://drive.google.com/file/d/1nIb3IP2F-ZLV8mzmNgXfI_N_rOMS8xJL/view?usp=sharing)  
+- [Отсутствие кнопки добавления карточки](https://drive.google.com/file/d/1nIb3IP2F-ZLV8mzmNgXfI_N_rOMS8xJL/view?usp=sharing)  
 
-- ![Отсутствие иконки корзины для удаления фото](https://drive.google.com/file/d/11kuJFxRvj6jpu8CXLh71q2pqfl56BmxP/view?usp=sharing)  
+- [Отсутствие иконки корзины для удаления фото](https://drive.google.com/file/d/11kuJFxRvj6jpu8CXLh71q2pqfl56BmxP/view?usp=sharing)  
 
 ---
 
