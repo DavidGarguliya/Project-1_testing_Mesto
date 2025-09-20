@@ -3,8 +3,8 @@
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)  
 ![Tests](https://img.shields.io/badge/tests-Regression_&_Retest-blue)  
 ![Platform](https://img.shields.io/badge/platform-WebApp-lightgrey)  
-![Docs](https://img.shields.io/badge/docs-Markdown-success)  
-![Bugs](https://img.shields.io/badge/bugs_found-8-critical-red)  
+![Bugs](https://img.shields.io/badge/Bugs_Found-8-red)  
+![Blockers](https://img.shields.io/badge/Blockers-1-brightred) 
 
 ---
 
